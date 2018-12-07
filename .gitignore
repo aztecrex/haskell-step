@@ -1,0 +1,11 @@
+.stack-work/
+haskell-step.cabal
+*~
+*.swp
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*deleteme*
+
